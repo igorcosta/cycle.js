@@ -11,14 +11,15 @@ Apache Flex Framework.
 Cycle approach to delivery the MVC borrowed from Backbone but also:
 
 
-Scale applications with event driven architecture
-Sensible defaults, such as using Underscore templates for view rendering
-Easy to modify to make it work with your applicaton's specific needs
-Reduce boilerplate for views, with specialized view types
-Build on a modular architecture with an Application and modules that attach to it
-Compose your application's visuals at runtime, Layout definitions
-
-And much more.
+<ol>
+<li>Scale applications with event driven architecture</li>
+<li>Sensible defaults, such as using Underscore templates for view rendering</li>
+<li>Easy to modify to make it work with your applicaton's specific needs</li>
+<li>Reduce boilerplate for views, with specialized view types</li>
+<li>Build on a modular</li>
+<li>Compose your application's visuals at runtime, Layout definitions</li>
+<li>And much more.</li>
+</ol>
 
 
 == Compatibility:
